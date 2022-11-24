@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "211338026456",
+    "project_id": "aha-mobile-79161",
+    "storage_bucket": "aha-mobile-79161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211338026456:android:48dca90c5a78d1cea326ad",
+        "android_client_info": {
+          "package_name": "com.aha_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211338026456-ru65t7gfceker97gpq4burnr9gdii8ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_Gt9nJcsK-9NuWAUv3IUDDKMT-J-g2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211338026456-ru65t7gfceker97gpq4burnr9gdii8ps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211338026456-6kf2or0edu4dt5oe7p70i6sb0gh3bia1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahaart.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AHA</string>
+    <string name="deep_link_host">staging.allhailart.com</string>
+    <string name="deep_link_scheme">ahaapp</string>
+    <string name="default_notification_channel_id">com.ahaart.app</string>
+    <string name="facebook_app_id">367289712017692</string>
+     <string name="fb_login_protocol_scheme">fb367289712017692</string>
+      <string name="facebook_client_token">ac4cde8698edf7305dd6c37e4d19d4e5</string>
+</resources>
